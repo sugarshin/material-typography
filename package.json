@@ -16,9 +16,9 @@
 
     "build:all": "concurrently \"npm run build:less\" \"npm run build:sass\" \"npm run build:scss\" \"npm run build:styl\" ",
     "build:less": "lessc -x less/typography.less build/less/typography.min.css",
-    "build:sass": "sass sass/typography.sass -o build/sass/typography.min.css",
-    "build:scss": "sass scss/typography.scss -o build/scss/typography.min.css",
-    "build:styl": "styl < styl/typography.styl > build/styl/typography.min.css",
+    "build:sass": "sass --style compressed sass/typography.sass -o build/sass/typography.min.css",
+    "build:scss": "sass --style compressed scss/typography.scss -o build/scss/typography.min.css",
+    "build:styl": "styl -c < styl/typography.styl > build/styl/typography.min.css",
 
     "installSass": "gem install sass compass",
 
