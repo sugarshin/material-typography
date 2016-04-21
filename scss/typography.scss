@@ -1,6 +1,6 @@
-@import variables;
-@import functions/em;
-@import functions/rem;
+@import "variables";
+@import "functions/em";
+@import "functions/rem";
 
-@import classes;
-@import enforce-typography;
+@import "classes";
+@import "enforce-typography";
