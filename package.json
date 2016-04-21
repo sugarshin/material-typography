@@ -23,7 +23,7 @@
 
     "installSass": "gem install sass compass",
 
-    "postinstall": "npm run build:all"
+    "postinstall": "npm run suppath && npm run build:all"
   },
   "dependencies": {
     "less": "^2.6.1",
