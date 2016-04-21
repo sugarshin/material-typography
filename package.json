@@ -13,6 +13,8 @@
   "scripts": {
     "preinstall": "npm run installSass",
 
+    "suppath": "mkdir build; cd build/ && mkdir less sass scss styl",
+
     "build:all": "concurrently \"npm run build:less\" \"npm run build:sass\" \"npm run build:scss\" \"npm run build:styl\" ",
     "build:less": "lessc -x less/typography.less build/less/typography.min.css",
     "build:sass": "sass --style compressed sass/typography.sass:build/sass/typography.min.css",
@@ -21,7 +23,7 @@
 
     "installSass": "gem install sass compass",
 
-    "postinstall": "npm run build:all"
+    "postinstall": "npm run suppath && npm run build:all"
   },
   "dependencies": {
     "less": "^2.6.1",
