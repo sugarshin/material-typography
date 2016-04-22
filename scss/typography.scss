@@ -1,6 +1,9 @@
-@import "variables";
-@import "functions/em";
-@import "functions/rem";
+@import 'variables';
+@import 'functions/em';
+@import 'functions/rem';
 
-@import "classes";
-@import "enforce-typography";
+@import 'classes';
+
+// comment this out if you only want to use classes instead of
+// letting material-typography override the default typography.
+@import 'enforce-typography';

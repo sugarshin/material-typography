@@ -2,5 +2,8 @@
 
 @import url("classes.css");
 
-/* comment this out if you only want to use classes instead of let material-typography override the default typography. */
+/*
+comment this out if you only want to use classes instead of
+letting material-typography override the default typography.
+*/
 @import url("enforce-typography.css");
