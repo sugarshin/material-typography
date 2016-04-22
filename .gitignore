@@ -4,6 +4,7 @@ node_modules/
 # don't include developmental compiles
 build/
 
+
 # may include this later to provide examples
 test/
 
@@ -12,3 +13,4 @@ less/*.css
 sass/*.css
 scss/*.css
 styl/*.css
+.sass-cache/
