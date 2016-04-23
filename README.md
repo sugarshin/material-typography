@@ -55,3 +55,5 @@ Roboto has six weights: Thin, Light, Regular, Medium, Bold, and Black.
 #### Roboto font weights
 
 Roboto has six weights: Thin, Light, Regular, Medium, Bold, and Black.
+
+![Roboto font weights](https://material-design.storage.googleapis.com/publish/material_v_4/material_ext_publish/0Bx4BSt6jniD7ZHlGSHpsMjU5YmM/style_typography_weights1.png)
