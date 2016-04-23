@@ -153,3 +153,5 @@ Dynamic type enables large type when the length of the text in a layout is unkno
 
 ![](https://material-design.storage.googleapis.com/publish/material_v_4/material_ext_publish/0Bx4BSt6jniD7NFJ1UjFwVnNtY3M/style_typography_styles_20_dynamic2.png)
 
+#### Line breaking
+
