@@ -110,3 +110,7 @@ Button style (Medium 14sp, all caps) is used for all buttons. Button text should
 ![](https://material-design.storage.googleapis.com/publish/material_v_4/material_ext_publish/0B6Okdz75tqQsakpNYVp4YnV6b1U/style_typography_styles_14_button2.png)
 
 ## Line Height
+
+To achieve proper readability and appropriate pacing, line heights have been determined based on each style’s individual size and weight. Line wrapping only applies to Body, Subhead, Headline, and the smaller Display styles. All other styles should exist as single lines.
+
+#### English and English-like scripts
