@@ -50,4 +50,4 @@ Roboto has been refined extensively to work across the wider set of supported pl
 
 Roboto has six weights: Thin, Light, Regular, Medium, Bold, and Black.
 
-
+![Roboto A-Z and numerals](https://material-design.storage.googleapis.com/publish/material_v_4/material_ext_publish/0Bx4BSt6jniD7Y3JIMkV5ZmVaM2c/style_typography_roboto2.png)
