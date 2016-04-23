@@ -155,3 +155,14 @@ Dynamic type enables large type when the length of the text in a layout is unkno
 
 #### Line breaking
 
+The images show best practices for line breaks.
+
+![](https://material-design.storage.googleapis.com/publish/material_v_4/material_ext_publish/0B6Okdz75tqQsMTd0MVdkZWwyUDg/style_typography_styles_linebreaks1.png)
+
+Do.
+
+![](https://material-design.storage.googleapis.com/publish/material_v_4/material_ext_publish/0B6Okdz75tqQsZXhBR3RaME9xLVU/style_typography_styles_linebreaks2.png)
+
+Don't.
+
+Avoid leaving large gaps and orphans on a line. Try not to leave very short words such as prepositions at the end of a line. Well-considered line breaks can avoid hyphenation of words altogether.
