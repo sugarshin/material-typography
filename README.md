@@ -34,7 +34,7 @@ __Tall__: Language scripts that require extra line height to accommodate larger 
 
 __Dense__: Language scripts that require extra line height to accommodate larger glyphs, including Chinese, Japanese, and Korean. Noto supports these languages with seven weights.
 
-### Typeface
+## Typeface
 
 #### Roboto
 
@@ -81,7 +81,7 @@ Both Roboto and Noto have hinted and unhinted versions. Google recommends:
 
 For both Android and web properties, the font stack should specify Roboto, Noto, and then sans-serif.
 
-### Styles
+## Styles
 
 Too many type sizes and styles at once can wreck any layout. A typographic scale has a limited set of type sizes that work well together along with the layout grid.
 
