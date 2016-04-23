@@ -94,3 +94,19 @@ Latin, Greek, and Cyrillic.
 The basic set of styles are based on a typographic scale of 12, 14, 16, 20, and 34.
 
 ![](https://material-design.storage.googleapis.com/publish/material_v_4/material_ext_publish/0Bzhp5Z4wHba3alhXZ2pPWGk3Zjg/style_typography_styles_scale.png)
+
+##### Across form factors, text that appears in the app bar should use the Title style, Medium 20sp
+
+![Examples using title style, English](https://material-design.storage.googleapis.com/publish/material_v_4/material_ext_publish/0B6Okdz75tqQsT3hTdEZ3c2JxaUk/style_typography_styles_05_title1.png)
+
+In certain scenarios, use the larger subheading style instead of the smaller Body style. Some of those scenarios include when information is presented as small snippets or when titles are paired with lines of Body-styled text.
+
+![Examples using subheading style, English](https://material-design.storage.googleapis.com/publish/material_v_4/material_ext_publish/0B6Okdz75tqQsNVRVTk02WlFCZTg/style_typography_styles_07_subhead1.png)
+
+Button style (Medium 14sp, all caps) is used for all buttons. Button text should be all caps in languages that have capitalization. For languages that don’t have capitals, consider using color text for flat buttons to make them stand out from normal text.
+
+![Examples using Button style, English](https://material-design.storage.googleapis.com/publish/material_v_4/material_ext_publish/0B6Okdz75tqQsT3h3cUk3VEp6czQ/style_typography_styles_13_button1.png)
+
+![](https://material-design.storage.googleapis.com/publish/material_v_4/material_ext_publish/0B6Okdz75tqQsakpNYVp4YnV6b1U/style_typography_styles_14_button2.png)
+
+## Line Height
