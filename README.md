@@ -120,3 +120,36 @@ To achieve proper readability and appropriate pacing, line heights have been det
 ![](https://material-design.storage.googleapis.com/publish/material_v_4/material_ext_publish/0Bzhp5Z4wHba3S0hlSFBQRVE0QlU/style_typography_styles_lineheight2.png)
 
 ![](https://material-design.storage.googleapis.com/publish/material_v_4/material_ext_publish/0B6Okdz75tqQsSDJtU2ZnVDZhTGM/style_typography_styles_lineheight3.png)
+
+## Other Typographic Guidelines
+
+### Colors & contrast
+
+A text color that is too similar to the background color is hard to read. Text with too much contrast can also be hard to read. This is especially true of light-colored text against dark backgrounds.
+
+Text should maintain a minimum contrast ratio of at least 4.5:1 (calculated based on luminance values) for legibility. A ratio of 7:1 is preferred.
+
+These color combinations also consider contrast ratios for users who perceive color differently.
+
+![](https://material-design.storage.googleapis.com/publish/material_v_4/material_ext_publish/0Bzhp5Z4wHba3dGx2T1FqM0xXbTA/style_typography_styles_contrast.png)
+
+![Contrast over light background](https://material-design.storage.googleapis.com/publish/material_v_4/material_ext_publish/0Bzhp5Z4wHba3OUFUOUl4MUtTaE0/style_typography_styles_15_contrast1.png)
+
+![Contrast over dark background](https://material-design.storage.googleapis.com/publish/material_v_4/material_ext_publish/0Bzhp5Z4wHba3S250RlVKaXAwZTA/style_typography_styles_16_contrast2.png)
+
+![Contrast over image](https://material-design.storage.googleapis.com/publish/material_v_4/material_ext_publish/0Bzhp5Z4wHba3cS1XWnFVUGNZMnM/style_typography_styles_17_contrast3.png)
+
+![Contrast over illustration](https://material-design.storage.googleapis.com/publish/material_v_4/material_ext_publish/0Bzhp5Z4wHba3clVzR3g1SWkzaGc/style_typography_styles_18_contrast4.png)
+
+#### Large and dynamic type
+
+For the best user experience, use dynamic type instead of relying only on smaller type sizes or allowing truncation of larger-size text.
+
+Large type applied correctly can make apps more interesting, differentiate layouts, and help users to decode content quickly.
+
+Dynamic type enables large type when the length of the text in a layout is unknown. Dynamic sizes are selected from a typographic scale based on available space and letter size estimates.
+
+![Dynamic type](https://material-design.storage.googleapis.com/publish/material_v_4/material_ext_publish/0Bx4BSt6jniD7OERKNk91VEZMakE/style_typography_styles_19_dynamic1.png)
+
+![](https://material-design.storage.googleapis.com/publish/material_v_4/material_ext_publish/0Bx4BSt6jniD7NFJ1UjFwVnNtY3M/style_typography_styles_20_dynamic2.png)
+
