@@ -80,3 +80,15 @@ Both Roboto and Noto have hinted and unhinted versions. Google recommends:
 #### Font stack
 
 For both Android and web properties, the font stack should specify Roboto, Noto, and then sans-serif.
+
+### Styles
+
+Too many type sizes and styles at once can wreck any layout. A typographic scale has a limited set of type sizes that work well together along with the layout grid.
+
+These sizes and styles were developed to balance content density and reading comfort under typical usage conditions. Type sizes are specified with sp (scaleable pixels) to enable large type modes for accessibility.
+
+#### English and English-like scripts
+
+Latin, Greek, and Cyrillic.
+
+The basic set of styles are based on a typographic scale of 12, 14, 16, 20, and 34.
