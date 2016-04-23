@@ -20,8 +20,6 @@ bower install material-typography
 
 Or simply download the `.zip` and place it in your project folder wherever you'd like.
 
-_*Please Note*_ that the initial directory is not required for this project to work. Your entry point can be simply one of the css, less, sass, scss, or stylus directories.
-
 ### Usage Instructions
 
 There should be no reason to compile each of the less, sass, scss, and stylus versions individually to use this package. Simply include `typography.css|less|sass|scss|styl` in your primary stylesheet and let your compiler compile *only* your primary stylesheet. This will concatenate `material-typography` into your primary stylesheet at your desired output location.
