@@ -61,3 +61,26 @@ Noto’s vertical metrics are compatible with Roboto.
 ![Noto Sans examples for English and CJK (Chinese, Japanese, and Korean)](https://material-design.storage.googleapis.com/publish/material_v_4/material_ext_publish/0B_udO5B8pzrzcWkwSW11bkstZEU/style_typography_noto1.png)
 
 ![Noto Sans examples for Thai and Hindi (Devangari)](https://material-design.storage.googleapis.com/publish/material_v_4/material_ext_publish/0B_udO5B8pzrzOEh3Z1BUNFdsVGc/style_typography_noto2.png)
+
+#### Noto font weights
+
+Noto Sans CJK (Chinese, Japanese, and Korean) has seven weights: Thin, Light, DemiLight, Regular, Medium, Bold, and Black. The weight of Noto Sans CJK Regular is the same as Roboto Regular.
+
+![Noto Sans CJK font weights](https://material-design.storage.googleapis.com/publish/material_v_4/material_ext_publish/0B_udO5B8pzrzdFA4NUh2TG1rT1E/style_typography_weight1.png)
+
+Noto fonts for Thai, Devanagari, and all other major living languages have Regular and Bold weights.
+
+![Noto Sans Thai and Hindi (Devangari) font weights](https://material-design.storage.googleapis.com/publish/material_v_4/material_ext_publish/0B_udO5B8pzrzdTRNVG0yX3JkUEE/style_typography_weight2.png)
+
+#### Hinted fonts
+
+Hints are the instructions embedded in a font on how to modify (distort) a glyph to look better on low-resolution displays. As a tradeoff, a hinted font consumes more space than the unhinted version.
+
+Both Roboto and Noto have hinted and unhinted versions. Google recommends:
+
+* Use the unhinted versions on Android and on Mac OS X, which doesn’t implement hints.
+* Use hinted fonts on Chrome OS, Windows, and Linux.
+
+#### Font stack
+
+For both Android and web properties, the font stack should specify Roboto, Noto, and then sans-serif.
