@@ -18,11 +18,7 @@ npm i --save material-typography
 bower install material-typography
 ```
 
-Or simply download the `.zip` and place it in your project folder wherever you'd like.
-
-### Usage Instructions
-
-There should be no reason to compile each of the less, sass, scss, and stylus versions individually to use this package. Simply include `typography.css|less|sass|scss|styl` in your primary stylesheet and let your compiler compile *only* your primary stylesheet. This will concatenate `material-typography` into your primary stylesheet at your desired output location.
+Or simply download the `.zip` and place it in your project folder wherever you'd like, then include your flavor of `typography` in your primary stylesheet.
 
 # Typography
 
