@@ -57,3 +57,11 @@ Roboto has six weights: Thin, Light, Regular, Medium, Bold, and Black.
 Roboto has six weights: Thin, Light, Regular, Medium, Bold, and Black.
 
 ![Roboto font weights](https://material-design.storage.googleapis.com/publish/material_v_4/material_ext_publish/0Bx4BSt6jniD7ZHlGSHpsMjU5YmM/style_typography_weights1.png)
+
+#### Noto
+
+Noto’s vertical metrics are compatible with Roboto.
+
+![Noto Sans examples for English and CJK (Chinese, Japanese, and Korean)](https://material-design.storage.googleapis.com/publish/material_v_4/material_ext_publish/0B_udO5B8pzrzcWkwSW11bkstZEU/style_typography_noto1.png)
+
+![Noto Sans examples for Thai and Hindi (Devangari)](https://material-design.storage.googleapis.com/publish/material_v_4/material_ext_publish/0B_udO5B8pzrzOEh3Z1BUNFdsVGc/style_typography_noto2.png)
