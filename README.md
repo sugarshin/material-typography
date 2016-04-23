@@ -92,3 +92,5 @@ These sizes and styles were developed to balance content density and reading com
 Latin, Greek, and Cyrillic.
 
 The basic set of styles are based on a typographic scale of 12, 14, 16, 20, and 34.
+
+![](https://material-design.storage.googleapis.com/publish/material_v_4/material_ext_publish/0Bzhp5Z4wHba3alhXZ2pPWGk3Zjg/style_typography_styles_scale.png)
