@@ -11,18 +11,17 @@
   "homepage": "https://github.com/juliancoleman/material-typography#readme",
   "license": "MIT",
   "scripts": {
-    "preinstall": "npm run installSass",
-    "suppath": "mkdir build; cd build/ && mkdir less sass scss styl",
+    "suppath": "mkdir -p build; cd build/ && mkdir -p less sass scss styl",
     "build:all": "concurrently \"npm run build:less\" \"npm run build:sass\" \"npm run build:scss\" \"npm run build:styl\" ",
     "build:less": "lessc -x less/typography.less build/less/typography.min.css",
-    "build:sass": "sass --style compressed --no-cache sass/typography.sass:build/sass/typography.min.css",
-    "build:scss": "sass --style compressed --no-cache scss/typography.scss:build/scss/typography.min.css",
+    "build:sass": "node-sass --style compressed --no-cache sass/typography.sass build/sass/typography.min.css",
+    "build:scss": "node-sass --style compressed --no-cache scss/typography.scss build/scss/typography.min.css",
     "build:styl": "stylus -c -r styl/typography.styl -o build/styl/typography.min.css",
-    "installSass": "gem install sass compass",
     "postinstall": "npm run suppath && npm run build:all"
   },
   "dependencies": {
     "less": "^2.6.1",
+    "node-sass": "~3.5.3",
     "stylus": "^0.54.2"
   },
   "devDependencies": {
