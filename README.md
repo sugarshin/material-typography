@@ -7,7 +7,7 @@ Typography based on Google's Material Design Standard; available in CSS, LESS, S
 #### NPM
 
 ```
-npm i --save material-typography
+npm install --save material-typography
 ```
 
 #### Bower

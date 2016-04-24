@@ -20,12 +20,12 @@
     "postinstall": "npm run suppath && npm run build:all"
   },
   "dependencies": {
-    "less": "^2.6.1",
+    "less": "~2.6.1",
     "node-sass": "~3.5.3",
-    "stylus": "^0.54.2"
+    "stylus": "~0.54.2"
   },
   "devDependencies": {
-    "concurrently": "^2.0.0",
-    "scss-lint": "0.0.0"
+    "concurrently": "~2.0.0",
+    "scss-lint": "~0.0.0"
   }
 }
