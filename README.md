@@ -2,6 +2,8 @@
 
 Typography based on Google's Material Design Standard; available in CSS, LESS, SASS, SCSS, and Stylus.
 
+[![Build Status](https://travis-ci.org/juliancoleman/material-typography.svg?branch=master)](https://travis-ci.org/juliancoleman/material-typography)
+
 ### Install Instructions
 
 #### NPM
