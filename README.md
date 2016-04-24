@@ -2,14 +2,12 @@
 
 Typography based on Google's Material Design Standard; available in CSS, LESS, SASS, SCSS, and Stylus.
 
-###### this package requires Ruby to be installed on your system and `PATH`
-
 ### Install Instructions
 
 #### NPM
 
 ```
-npm i --save material-typography
+npm install --save material-typography
 ```
 
 #### Bower
