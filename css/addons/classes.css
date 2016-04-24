@@ -1,75 +1,75 @@
 /* Display4(11.20) */
 .md-display-4 {
-  font-size: calc(11.20 * 10px) !important;
-  font-weight: 300 !important;
-  letter-spacing: -0.010em !important;
-  line-height: calc(11.20 * 10px) !important;
+  font-size: calc(11.20 * 10px);
+  font-weight: 300;
+  letter-spacing: -0.010em;
+  line-height: calc(11.20 * 10px);
 }
 /* Display3(5.600) */
 .md-display-3 {
-  font-size: calc(5.600 * 10px) !important;
-  font-weight: 400 !important;
-  letter-spacing: -0.005em !important;
-  line-height: calc(5.600 * 10px) !important;
+  font-size: calc(5.600 * 10px);
+  font-weight: 400;
+  letter-spacing: -0.005em;
+  line-height: calc(5.600 * 10px);
 }
 /* Display2(4.500) */
 .md-display-2 {
-  font-size: calc(4.500 * 10px) !important;
-  font-weight: 400 !important;
-  line-height: calc(6.4 * 10px) !important;
+  font-size: calc(4.500 * 10px);
+  font-weight: 400;
+  line-height: calc(6.4 * 10px);
 }
 /* Display1(3.400) */
 .md-display-1 {
-  font-size: calc(3.400 * 10px) !important;
-  font-weight: 400 !important;
-  line-height: calc(4 * 10px) !important;
+  font-size: calc(3.400 * 10px);
+  font-weight: 400;
+  line-height: calc(4 * 10px);
 }
 /* Headline(2.400) */
 .md-headline {
-  font-size: calc(2.400 * 10px) !important;
-  font-weight: 400 !important;
-  line-height: calc(3.2 * 10px) !important;
+  font-size: calc(2.400 * 10px);
+  font-weight: 400;
+  line-height: calc(3.2 * 10px);
 }
 /* Title(2.000) */
 .md-title {
-  font-size: calc(2.000 * 10px) !important;
-  font-weight: 500 !important;
-  letter-spacing: 0.005em !important;
+  font-size: calc(2.000 * 10px);
+  font-weight: 500;
+  letter-spacing: 0.005em;
 }
 /* Subhead(1.600) */
 .md-subhead {
-  font-size: calc(1.600 * 10px) !important;
-  font-weight: 400 !important;
-  letter-spacing: 0.010em !important;
-  line-height: calc(2.4 * 10px) !important;
+  font-size: calc(1.600 * 10px);
+  font-weight: 400;
+  letter-spacing: 0.010em;
+  line-height: calc(2.4 * 10px);
 }
 /* Body(1.400) */
 .md-body-1 {
-  font-size: calc(1.400 * 10px) !important;
-  font-weight: 400 !important;
-  letter-spacing: 0.010em !important;
-  line-height: calc(2 * 10px) !important;
+  font-size: calc(1.400 * 10px);
+  font-weight: 400;
+  letter-spacing: 0.010em;
+  line-height: calc(2 * 10px);
 }
 .md-body-2 {
-  font-size: calc(1.400 * 10px) !important;
-  font-weight: 500 !important;
-  letter-spacing: 0.010em !important;
-  line-height: calc(2.4 * 10px) !important;
+  font-size: calc(1.400 * 10px);
+  font-weight: 500;
+  letter-spacing: 0.010em;
+  line-height: calc(2.4 * 10px);
 }
 /* Caption(1.200) */
 .md-caption {
-  font-size: calc(1.200 * 10px) !important;
-  letter-spacing: 0.020em !important;
+  font-size: calc(1.200 * 10px);
+  letter-spacing: 0.020em;
 }
 /* Button */
 .md-button {
-  letter-spacing: 0.010em !important;
+  letter-spacing: 0.010em;
 }
 
 button, select, html, textarea, input {
-  font-family: sans-serif !important;
+  font-family: sans-serif;
 }
 
 select, button, textarea, input {
-  font-size: 100% !important;
+  font-size: 100%;
 }
