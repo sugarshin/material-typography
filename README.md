@@ -166,3 +166,25 @@ Do.
 Don't.
 
 Avoid leaving large gaps and orphans on a line. Try not to leave very short words such as prepositions at the end of a line. Well-considered line breaks can avoid hyphenation of words altogether.
+
+#### Tracking & kerning
+
+![](https://material-design.storage.googleapis.com/publish/material_v_4/material_ext_publish/0Bzhp5Z4wHba3LUZGWGdtZmFfUU0/style_typography_styles_tracking.png)
+
+##### Line length
+
+Consider this advice on readability and line length from the Baymard Institute:
+
+“You should have around 60 characters per line if you want a good reading experience. Having the right amount of characters on each line is key to the readability of your text.”
+
+"Too wide – if a line of text is too long, the user’s eye will have a hard time focusing on the text. This is because the length makes it difficult to get an idea of where the line starts and ends. Furthermore it can be difficult to continue from the correct line in large blocks of text.”
+
+"Too narrow – if a line is too short, the eye will have to travel back too often, breaking the reader’s rhythm. Too short lines also tend to stress people, making them begin on the next line before finishing the current one (hence skipping potentially important words).”
+
+Source: “Readability: the Optimal Line Length,”
+
+[http://baymard.com/blog/line-length-readability](http://baymard.com/blog/line-length-readability)
+
+![Ideal line lengths for English body text](https://material-design.storage.googleapis.com/publish/material_v_4/material_ext_publish/0B6Okdz75tqQsVDdtU1NfU3Jtdlk/style_typography_styles_linelengths1.png)
+
+![Ideal line lengths for short likes of text in English](https://material-design.storage.googleapis.com/publish/material_v_4/material_ext_publish/0B6Okdz75tqQsMzYxcGowWTE5NW8/style_typography_styles_linelengths2.png)
