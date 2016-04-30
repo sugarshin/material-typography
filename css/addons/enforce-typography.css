@@ -70,9 +70,9 @@ button {
   letter-spacing: 0.010em !important;
 }
 
-button, select, html, textarea, input {
+/*button, select, html, textarea, input {
   font-family: sans-serif !important;
-}
+}*/
 
 select, button, textarea, input {
   font-size: 100% !important;
