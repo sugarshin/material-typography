@@ -22,13 +22,13 @@ Or simply download the `.zip` and place it in your project folder wherever you'd
 
 For example:
 
-```
+```css
 @import "material-typography/css/typography.min.css";
 ```
 
 Or
 
-```
+```html
 <link rel="stylesheet" href="node_modules/material-typography/css/typography.min.css" />
 ```
 
@@ -52,7 +52,7 @@ Roboto has six weights: Thin, Light, Regular, Medium, Bold, and Black.
 
 #### Font stack
 
-```
+```css
 'Roboto', 'Noto', sans-serif;
 ```
 
