@@ -52,7 +52,9 @@ Roboto has six weights: Thin, Light, Regular, Medium, Bold, and Black.
 
 #### Font stack
 
-For both Android and web properties, the font stack should specify Roboto, Noto, and then sans-serif.
+```
+'Roboto', 'Noto', sans-serif;
+```
 
 ## Styles
 
@@ -77,13 +79,3 @@ To achieve proper readability and appropriate pacing, line heights have been det
 ![](https://material-design.storage.googleapis.com/publish/material_v_4/material_ext_publish/0Bzhp5Z4wHba3S0hlSFBQRVE0QlU/style_typography_styles_lineheight2.png)
 
 ![](https://material-design.storage.googleapis.com/publish/material_v_4/material_ext_publish/0B6Okdz75tqQsSDJtU2ZnVDZhTGM/style_typography_styles_lineheight3.png)
-
-## Other Typographic Guidelines
-
-### Colors & contrast
-
-A text color that is too similar to the background color is hard to read. Text with too much contrast can also be hard to read. This is especially true of light-colored text against dark backgrounds.
-
-Text should maintain a minimum contrast ratio of at least 4.5:1 (calculated based on luminance values) for legibility. A ratio of 7:1 is preferred.
-
-These color combinations also consider contrast ratios for users who perceive color differently.
