@@ -1,5 +1,6 @@
 # obviously
 node_modules/
+npm-debug.log
 
 # don't include developmental compiles
 build/
