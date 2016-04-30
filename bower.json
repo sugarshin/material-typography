@@ -1,6 +1,5 @@
 {
   "name": "material-typography",
-  "version": "1.0.0",
   "description": "Typography based on Google's Material Design Standard",
   "main": "package.json",
   "authors": [
