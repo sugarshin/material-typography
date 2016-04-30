@@ -1,3 +1,7 @@
+html {
+  font-family: 'Roboto', 'Noto', sans-serif !important;
+}
+
 /* Display4(11.20) */
 .md-display-4 {
   font-size: 112px;
@@ -66,9 +70,9 @@
   letter-spacing: 0.010em;
 }
 
-button, select, html, textarea, input {
+/*button, select, html, textarea, input {
   font-family: sans-serif;
-}
+}*/
 
 select, button, textarea, input {
   font-size: 100%;
