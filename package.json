@@ -12,7 +12,8 @@
   "license": "MIT",
   "scripts": {
     "suppath": "mkdir -p build; cd build/ && mkdir -p less sass scss styl",
-    "build:all": "concurrently \"npm run build:sass\" \"npm run build:scss\" \"npm run build:styl\" ",
+    "build:all": "concurrently \"npm run build:css\"  \"npm run build:sass\" \"npm run build:scss\" \"npm run build:styl\" ",
+    "build:css": "cat css/**/*.css | cleancss -o css/typography.min.css",
     "build:less": "lessc -x less/typography.less build/less/typography.min.css",
     "build:sass": "node-sass --style compressed --no-cache sass/typography.sass build/sass/typography.min.css",
     "build:scss": "node-sass --style compressed --no-cache scss/typography.scss build/scss/typography.min.css",
@@ -21,10 +22,11 @@
   },
   "dependencies": {
     "less": "~2.6.1",
-    "node-sass": "~3.5.3",
+    "node-sass": "^3.5.3",
     "stylus": "~0.54.2"
   },
   "devDependencies": {
+    "clean-css": "^3.4.12",
     "concurrently": "~2.0.0",
     "scss-lint": "~0.0.0"
   }
