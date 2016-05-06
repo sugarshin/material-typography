@@ -12,7 +12,7 @@
   "license": "MIT",
   "scripts": {
     "suppath": "mkdir -p build; cd build/ && mkdir -p less sass scss styl",
-    "build:all": "concurrently \"npm run build:css\"  \"npm run build:sass\" \"npm run build:scss\" \"npm run build:styl\" ",
+    "build:all": "./node_modules/.bin/concurrently \"npm run build:css\"  \"npm run build:sass\" \"npm run build:scss\" \"npm run build:styl\" ",
     "build:css": "cat css/**/*.css | cleancss -o css/typography.min.css",
     "build:less": "lessc -x less/typography.less build/less/typography.min.css",
     "build:sass": "node-sass --style compressed --no-cache sass/typography.sass build/sass/typography.min.css",
